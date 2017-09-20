@@ -13,11 +13,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello develop branch"
-        android:layout_marginTop="166dp"
+        android:text="Hello master branch"
+        android:layout_marginTop="178dp"
         android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginLeft="143dp"
-        android:layout_marginStart="143dp" />
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
